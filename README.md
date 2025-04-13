@@ -1,5 +1,13 @@
 # Reinforcement Learning for Robotic Packaging Optimization
 
+
+
+
+https://github.com/user-attachments/assets/c9059017-555c-4787-a245-f8393b5964e5
+
+
+
+
 This project simulates a robotic packaging environment using PyBullet, focusing on developing and evaluating reinforcement learning (RL) strategies for robotic manipulation tasks. The simulation features a Franka Panda robotic arm performing object manipulation tasks, including picking and placing objects on a tray. The goal is to establish a foundation for RL-based control in the future.
 
 ## 🧠 Project Overview
