@@ -67,7 +67,7 @@ This will launch the PyBullet simulation environment with the Franka Panda robot
 To run the test cases and validate the environment:
 
 ```bash
-python3 test_env.py
+python3 ./test_env.py
 ```
 
 This script will execute predefined tests to ensure the environment's components function as expected.
