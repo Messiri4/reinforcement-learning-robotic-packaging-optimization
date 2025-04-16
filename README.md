@@ -57,7 +57,7 @@ Ensure you have the following installed:
 To start the simulation:
 
 ```bash
-python3 main.py
+python3 ./main.py
 ```
 
 This will launch the PyBullet simulation environment with the Franka Panda robotic arm ready to interact.
